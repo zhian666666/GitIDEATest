@@ -6,6 +6,5 @@ public class Test01 {
 
         int a = 0;
         System.out.println(a);
-
     }
 }
