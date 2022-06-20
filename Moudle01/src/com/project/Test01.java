@@ -7,6 +7,7 @@ public class Test01 {
         int a = 4;
         int b = 5;
         System.out.println(a + "+" + b + "=" + (a + b));
-
+        //输出一个微笑
+        System.out.println("你好黑鬼");
     }
 }
